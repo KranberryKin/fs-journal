@@ -39,7 +39,7 @@ Depends is if a website and you want to see it's layout, or you want to see your
 The better way to debug your code, would be to constantly test and run your code while you are making it. So when you are do run into issues, you can be directed to it instead of having broken code. While having DevTools open, you can run your code with breakpoint and check values. In order to see if they are undefined, and causing your function to not work.
 
 
-**Wednesday Challenge Link:**
+**Wednesday Challenge Link:** https://kranberrykin.github.io/Rock-Papper-Scissors/
 
 
 **What are regular expressions or regex?**
@@ -54,7 +54,7 @@ Using regular expressions you can test /^\d{10}$/ to match beginning and end of 
 
 While using the following expression above, you can add periods(.) within and a \/d{3}$/ to match end of email. clarifying it's at least .com, .gov, or .net.
 
-**Thursdays Challenge Link:**
+**Thursdays Challenge Link:** Group Project...
 
 **What is the difference between a Constructor in comparison to a regular Function?**
 
@@ -68,7 +68,7 @@ Prototype is a vaule you set saying, that this value before itself can differ. B
 
 Inheritance is bringing an value in and making it work, by using a prototype. So therefor  a function can be ran with multiple inheritable values. 
 
-**Fridays Challenge Link:**
+**Fridays Challenge Link:** https://kranberrykin.github.io/Clicking_Cheese/
 
 **What are the benefits of making a plan before starting to just write the code?**
 
