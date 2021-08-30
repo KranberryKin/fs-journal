@@ -10,7 +10,7 @@ Hoisting is setting the variable globally in the code as it initiates. This is d
 
 'Var' is the default variable setting command for global variables, and can be updated and changed. 'let' is setting the 'temporary' vaule. 'let' is bound withing the function it's in, and can be updated not changed. 'const' is simular, but instead it remains a constant value that cannot be changed or updated. 
 
-**Monday A-Challenge Link:**
+**Monday A-Challenge Link:** https://kranberrykin.github.io/js-tests-basics/
 
 **What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?**
 
