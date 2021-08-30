@@ -24,7 +24,7 @@ Parameters are set values that are needed in functions, and are placed within th
 
 A function with no parameters is the default, or has low order in functions. When you add parameters to a function, then it becomes of higher order. It requires more values, in order to run said function.
 
-**Tuesdays Challenges Link:**
+**Tuesdays Challenges Link:** https://kranberrykin.github.io/js-tests-loops-and-arrays/
 
 **What are the main ways to write information to the console? Why/when should you use each style.**
 
