@@ -10,7 +10,7 @@ When you export you have access to functions and element from the export. But if
 
 Limmiting the amount of power, and control the user has over the webpage. You can make it to where the user is only able to click the use the buttons and functions given to them, instead of base values like currency in game manipulation.
 
-**Mondays Challenge Link:**
+**Mondays Challenge Link:** https://github.com/KranberryKin/MVC-Intro
 
 
 
@@ -29,7 +29,7 @@ When you try to call a function that is not in the closure, it pull an error and
 
   you can set private variables with special symbols like #, then these can be set outside  a constructor so you can manipulate a variable without having it be changed by the user.
 
-**Tuesday Challenge Link:**
+**Tuesday Challenge Link:** https://kranberrykin.github.io/VendingMachine/
 
 
 **What are the two common operations that we will set in the handler?**
@@ -45,7 +45,7 @@ Everytime you run a get function, you'd need to return a value. When you return 
 
 When you call an proxy object, get functions have diferent logic when it runs. Instead of accessing the property of the object, you can check if a property is being changed or set. 
 
-**Wednesday Challenge Link:**
+**Wednesday Challenge Link:** https://kranberrykin.github.io/Extending-gregslist/
 
 
 
@@ -62,5 +62,5 @@ There is Subscribe, then Unsubscribe, and lastly Broadcast.
 I am not sure how to answer this quesiton. I beleive that an observer and iderate over a set of data and add it to it's array. Where it then can add, remove, or change the neeeded values in the array. But with having things in a proxy state of being. obervers may not be able to acess certain inforation, or for instance change information. So we have an observer that uses proxystate and checks where a user is trying to acess any object, and change a said property. and if that is so, throw an 'custom' or made error instead of allowing action to take place. 
 
 
-**Thursday Challenge Link:**
+**Thursday Challenge Link:** Group Challenge.
 
