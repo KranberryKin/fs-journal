@@ -31,30 +31,20 @@ then() is where the code runs after the api fetch, and catch() specificlly catch
 
 **Tuesdays Afternoon Challenge Link:** N/A
 
-**What are the two common operations that we will set in the handler?**
+**What does REST stand for, and in simple terms what does it mean?**
 
 
 
-**What do you have to make sure you are doing with every Get to insure the value does not become undefined?**
+**What does Stateless mean?**
 
-With every 'get' you need an string value to complete the URL the API is being accessed by 'get'. Also you need the function to be Async and the get function being ran needs an await. 
+Stateless means that the Server doesn't rememeber the user when they try to access or get information from the api.
 
-**What are some of the benefits of the proxy object that we are using in our structure for applications?**
+**What URL pattern is used when writing a RESTful API?**
 
 
 
 **Wednesday Link:** https://kranberrykin.github.io/Q-Pokedex/
 
-
-**What problems does the Observer Pattern seek to solve?**
-
-
-
-**What are the three mechanisms of the observer pattern?**
-
-
-
-**Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.**
 
 
 **Thursdays Link:** https://kranberrykin.github.io/ItuneV2/
