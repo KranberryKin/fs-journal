@@ -12,3 +12,18 @@ When I want to create allot objects with properties as data for an api, or when 
 
 **Mondays Link:** https://kranberrykin.github.io/BurgerShop/
 
+**What are the three types of relationships?**
+
+1: One to One Relationship
+2: One to Many Relationship
+3: Many to Many Relationship
+
+**What are the benefits of the traditional linking of relationships instead of Embedding**
+
+Traditional linkings can and will always return a value, but if you embed propterties. Then you have to dig into the embeddment, and access the properties.
+
+**What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?**
+
+The main issue with many-to-many relationships, is that when adding information to a section you can easily run out of data. There can be multiple items with the same catagory. But if we had every catagory in the books that are being added to that catagory, will use allot more data than intended and/or needed.
+
+**Tuesdays Link:** https://kranberrykin.github.io/Greglist-auth/
