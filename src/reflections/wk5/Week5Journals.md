@@ -27,3 +27,18 @@ Traditional linkings can and will always return a value, but if you embed propte
 The main issue with many-to-many relationships, is that when adding information to a section you can easily run out of data. There can be multiple items with the same catagory. But if we had every catagory in the books that are being added to that catagory, will use allot more data than intended and/or needed.
 
 **Tuesdays Link:** https://kranberrykin.github.io/Greglist-auth/
+
+
+**In simple terms what is a sub-document?**
+
+A sub-document is a property that you label inside a Schema. A sub-document can be re-used as a template for more simular properties.
+
+**When might you use a sub-document?**
+
+When I want to create an Schema of a character, and I want a few basic skills and one super skill. Using a sub-document we can use one line to show an array of object blueprints( [{}] ). Then set the special skill to a singular object({}).
+
+**How do you add to a collection of sub-documents? What about editing them?**
+
+const a element as a new schema, then use the element to add a property = [{name: 'name-here'},{etc.}]. When you want to edit a sub-document. Find the object you want to edit and const it to an element. Than, access the property you want to add too with .push(), or you can access the specific [array location] and the properties the manually set them to 'strings' or nums.
+
+**Wednesday Link:**
