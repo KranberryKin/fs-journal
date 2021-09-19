@@ -41,4 +41,20 @@ When I want to create an Schema of a character, and I want a few basic skills an
 
 const a element as a new schema, then use the element to add a property = [{name: 'name-here'},{etc.}]. When you want to edit a sub-document. Find the object you want to edit and const it to an element. Than, access the property you want to add too with .push(), or you can access the specific [array location] and the properties the manually set them to 'strings' or nums.
 
+
 **Wednesday Link:**
+
+
+**What is a virtual property?**
+
+A virtual property is an set property which is not accessable. It's simply virtual in the sense that we can all this property which may use other actual properties as it's data.
+
+**When might you use a virtual property?**
+
+When i would want to create a social media webpage where I can have people choose how much of their name they want display on their profile. 
+
+**How do you search by a virtual properties value?**
+
+once you create the virtual property on an schema, you can call that schema like user.fullname if the full-name what set up as a virutal property.
+
+**Thursdays Link:**  Dereks Github : Group Assesment 
