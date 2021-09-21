@@ -27,6 +27,6 @@ Props are often used to help with template building for a object with set proper
 Props can be accessed in the html portion of the Vue file. when calling the props, you can set the data in the template for the props object. 
 
 
-**Tuesdays Link:**
+**Tuesdays Link:** https://github.com/KranberryKin/Vue-Nasa
 
 
