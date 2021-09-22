@@ -30,3 +30,16 @@ Props can be accessed in the html portion of the Vue file. when calling the prop
 **Tuesdays Link:** https://github.com/KranberryKin/Vue-Nasa
 
 
+**What are lifecycle hooks? What are lifecycle hooks used for?**
+
+Lifecycle Hooks are the nitty gritty background code the registers and moves data, they are used to know when and where a component is created, used or removed.
+
+**How have you utilized lifecycle hooks in your afternoon projects?**
+
+I utilized the lifecycle hooks to load and update values on loading pages. On mount before display set a value to null so it doesn't register with new page load.
+
+**What are mounting hooks? When might you use them?**
+
+Mounting hooks are hooks that run during the page being mounted/displayed. Used for many reasons, we can run certain function we desire when page loads in. 
+
+**Wednesday Link:** https://github.com/KranberryKin/fall21-gregslist-vue
