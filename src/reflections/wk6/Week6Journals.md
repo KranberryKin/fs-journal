@@ -43,3 +43,18 @@ I utilized the lifecycle hooks to load and update values on loading pages. On mo
 Mounting hooks are hooks that run during the page being mounted/displayed. Used for many reasons, we can run certain function we desire when page loads in. 
 
 **Wednesday Link:** https://github.com/KranberryKin/fall21-gregslist-vue
+
+
+**What is a nested route?**
+
+
+
+**When might you use a nested route? (other than the provided example)**
+
+
+
+**Can you pass parameters through nested routes? When might you use them?**
+
+
+
+**Thursdays Link:** https://github.com/NickSondrup/blogger-vue
