@@ -46,4 +46,4 @@ When finished with the back end of out partner project, we were able to see how 
 
 I would have read my daily journals and focused more on group efforts and driver and navagator roles sooner. 
 
-**Link:** https://github.com/KranberryKin/BugTracker
+**Link:** https://github.com/DariusDeah/sprintr.git
