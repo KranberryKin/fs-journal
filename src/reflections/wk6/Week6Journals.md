@@ -47,14 +47,14 @@ Mounting hooks are hooks that run during the page being mounted/displayed. Used 
 
 **What is a nested route?**
 
-
+A nested route is a url path inside a parent route. 
 
 **When might you use a nested route? (other than the provided example)**
 
-
+When you are accessing an profile page and you want to have a main page, than a settings page as well. 
 
 **Can you pass parameters through nested routes? When might you use them?**
 
-
+I thought a parameter needs to be set for a nested route to take place.
 
 **Thursdays Link:** https://github.com/NickSondrup/blogger-vue
