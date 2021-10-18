@@ -3,7 +3,7 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
-
+Inheritance is when a class is made within or appending another class. img and img.photo, the class 'img photo'  will have all the properties of the img class and more including photo class.
 ```
 **2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
@@ -33,7 +33,7 @@
 **7.** In Scrum/Agile what is the DoD?
 <!-- enter you answer in the space below -->
 ```
-
+DoD is the definition of done, the way agile and scrum get to done state. Is their unique definition, and strategy to get there.
 ```
 **8.** Give two examples of a user story:
 <!-- enter you answer in the space below -->
