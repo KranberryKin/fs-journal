@@ -10,6 +10,8 @@ aclass does not inherit all members in members are classified private.
 
 if something in private in an inherited class, said class inheriting it cannot access the private members. Make it internal if you want to access it within the application, but leave it unaccessable to users.
 
+**Mondays Link:** https://github.com/KranberryKin/Vaca
+
 **What is the difference between a primary key and a foreign key**
 
 Primary Key is an ID used within the object, and the Foreign Key is the corrisponding ID, but on an object from a different table of data to refrence it. 
@@ -23,6 +25,8 @@ Alias is like a naming convention for a banana word. But it stores data in a loc
 Two tables have the same name for many to many relatinship, which would confuse mysql. but if the many to many table was doctors-patients we can make it work. if a doctorID is given....
 SELECT p.*, dp.* FROM doctors-patients dp JOIN patients p ON p.id = dp.patientId WHERE dp.doctorId = @doctorId;
 
+**Tuesdays Link:**https://github.com/KranberryKin/AmaZeny
+
 **What is SQL injection?**
 
 Where the user can input a value which the sql database can read instead of being the needed data, and changes the database in a form of an attack.
@@ -34,6 +38,8 @@ Where the user can input a value which the sql database can read instead of bein
 **How can we detect and sanitize SQL injection attacks?**
 
 There are different forms of tests you can run checking for specific characters like a ';'. Or you can find the data and change it manually with only the properties you want the user to edit.
+
+**Wednesday Link:** https://github.com/KranberryKin/AmaZeny
 
 **Write a review and reflection of your experiences in this course, as this is the last lecture before your final project, what are your concerns, how do you plan to manage your time, what have you enjoyed most about the course up to this point.**
 
